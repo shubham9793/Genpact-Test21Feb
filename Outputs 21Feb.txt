@@ -1,0 +1,48 @@
+Question No. 1 
+
+
+inputs
+
+Enter the First Input
+ABC2012345
+Enter the second Input
+ABC2012660
+Enter the third Input
+4
+
+
+Output
+1260
+
+
+Question 2
+
+input 
+
+Enter a String
+#FF9922
+
+Output
+Valid
+
+
+Question 3
+
+Enter value of n
+4
+Enter value of r 
+3
+
+output
+4
+
+
+Question 4
+
+ ashok_23 
+ Valid 
+
+1980_200 
+Invalid
+
+
