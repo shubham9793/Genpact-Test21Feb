@@ -1,3 +1,4 @@
+package com.org.gen.TestAssignment21Feb;
 import java.util.Scanner;
 class UserMainCode{
     public static int validatePassword(String a){
@@ -29,7 +30,7 @@ class UserMainCode{
 public class main2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.pritln("Enter Pass type");
+        System.out.println("Enter Pass type");
         String str = sc.next();
         if(UserMainCode.validatePassword(str) == 1)
             System.out.println("Valid");
